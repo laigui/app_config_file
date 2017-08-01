@@ -120,11 +120,11 @@ autocmd InsertEnter * se cul "用浅色高亮当前行
 set guifont=Monaco:h14 " 调整默认字体大小
 
 " 制表符  
-set tabstop=2  
+set tabstop=4  
 set expandtab  
 set smarttab  
-set shiftwidth=2  
-set softtabstop=2  
+set shiftwidth=4  
+set softtabstop=4  
 
 " 行控制  
 set linebreak  
